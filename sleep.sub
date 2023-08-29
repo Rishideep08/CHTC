@@ -1,0 +1,14 @@
+executable = /bin/sleep
+arguments = 100
+
+output = sleep.out
+error = sleep.err
+log = sleep.log
+
+request_cpus = 1
+request_memory = 1GB
+request_disk = 1MB
+should_transfer_files = yes
+when_to_transfer_output = on_exit_or_evict
+
+queue

@@ -1,0 +1,132 @@
+000 (036.000.000) 2023-08-23 16:05:37 Job submitted from host: <128.105.244.60:34527?addrs=128.105.244.60-34527&alias=dumbo.chtc.wisc.edu&noUDP&sock=schedd_1544203_652a>
+...
+040 (036.000.000) 2023-08-23 16:05:37 Started transferring input files
+	Transferring to host: <128.105.244.60:34527?addrs=128.105.244.60-34527&alias=dumbo.chtc.wisc.edu&noUDP&sock=slot1_2002042_73bd_15>
+...
+040 (036.000.000) 2023-08-23 16:05:37 Finished transferring input files
+...
+001 (036.000.000) 2023-08-23 16:05:38 Job executing on host: <128.105.244.60:34527?addrs=128.105.244.60-34527&alias=dumbo.chtc.wisc.edu&noUDP&sock=startd_1544203_652a>
+	SlotName: slot1@dumbo.chtc.wisc.edu
+	CondorScratchDir = "/home/rrallabandi/htcontor_build/htcondor/__build/release_dir/local/execute/dir_4064536"
+	Cpus = 1
+	Disk = 6841114
+	Memory = 15845
+...
+006 (036.000.000) 2023-08-23 16:05:47 Image size of job updated: 40
+	6  -  MemoryUsage of job (MB)
+	5956  -  ResidentSetSize of job (KB)
+...
+006 (036.000.000) 2023-08-23 16:05:56 Image size of job updated: 4396
+	6  -  MemoryUsage of job (MB)
+	5956  -  ResidentSetSize of job (KB)
+...
+040 (036.000.000) 2023-08-23 16:05:56 Started transferring output files
+...
+040 (036.000.000) 2023-08-23 16:05:56 Finished transferring output files
+...
+004 (036.000.000) 2023-08-23 16:05:56 Job was evicted.
+	(0) CPU times
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+	0  -  Run Bytes Sent By Job
+	38280  -  Run Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated 
+	   Cpus                 :                 1         1 
+	   Disk (KB)            :       47     1024   6841114 
+	   Memory (MB)          :        6     1024     15845 
+...
+040 (036.000.000) 2023-08-23 16:07:43 Started transferring input files
+	Transferring to host: <128.105.244.60:37737?addrs=128.105.244.60-37737&alias=dumbo.chtc.wisc.edu&noUDP&sock=slot1_4066153_613e_1>
+...
+040 (036.000.000) 2023-08-23 16:07:43 Finished transferring input files
+...
+001 (036.000.000) 2023-08-23 16:07:44 Job executing on host: <128.105.244.60:37737?addrs=128.105.244.60-37737&alias=dumbo.chtc.wisc.edu&noUDP&sock=startd_1544203_652a>
+	SlotName: slot1@dumbo.chtc.wisc.edu
+	CondorScratchDir = "/home/rrallabandi/htcontor_build/htcondor/__build/release_dir/local/execute/dir_4067531"
+	Cpus = 1
+	Disk = 6414183
+	Memory = 15845
+...
+005 (036.000.000) 2023-08-23 16:09:24 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	0  -  Run Bytes Sent By Job
+	38280  -  Run Bytes Received By Job
+	0  -  Total Bytes Sent By Job
+	76560  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated 
+	   Cpus                 :                 1         1 
+	   Disk (KB)            :       48     1024   6414183 
+	   Memory (MB)          :        8     1024     15845 
+
+	Job terminated of its own accord at 2023-08-23T21:09:24Z with exit-code 0.
+...
+000 (037.000.000) 2023-08-23 16:13:39 Job submitted from host: <128.105.244.60:37737?addrs=128.105.244.60-37737&alias=dumbo.chtc.wisc.edu&noUDP&sock=schedd_1544203_652a>
+...
+040 (037.000.000) 2023-08-23 16:13:39 Started transferring input files
+	Transferring to host: <128.105.244.60:37737?addrs=128.105.244.60-37737&alias=dumbo.chtc.wisc.edu&noUDP&sock=slot1_4066153_613e_2>
+...
+040 (037.000.000) 2023-08-23 16:13:39 Finished transferring input files
+...
+001 (037.000.000) 2023-08-23 16:13:40 Job executing on host: <128.105.244.60:37737?addrs=128.105.244.60-37737&alias=dumbo.chtc.wisc.edu&noUDP&sock=startd_1544203_652a>
+	SlotName: slot1@dumbo.chtc.wisc.edu
+	CondorScratchDir = "/home/rrallabandi/htcontor_build/htcondor/__build/release_dir/local/execute/dir_4074825"
+	Cpus = 1
+	Disk = 6414183
+	Memory = 15845
+...
+006 (037.000.000) 2023-08-23 16:13:48 Image size of job updated: 40
+	6  -  MemoryUsage of job (MB)
+	6016  -  ResidentSetSize of job (KB)
+...
+006 (037.000.000) 2023-08-23 16:14:09 Image size of job updated: 4396
+	6  -  MemoryUsage of job (MB)
+	6016  -  ResidentSetSize of job (KB)
+...
+040 (037.000.000) 2023-08-23 16:14:09 Started transferring output files
+...
+040 (037.000.000) 2023-08-23 16:14:09 Finished transferring output files
+...
+004 (037.000.000) 2023-08-23 16:14:09 Job was evicted.
+	(0) CPU times
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+	0  -  Run Bytes Sent By Job
+	38280  -  Run Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated 
+	   Cpus                 :                 1         1 
+	   Disk (KB)            :       47     1024   6414183 
+	   Memory (MB)          :        6     1024     15845 
+...
+040 (037.000.000) 2023-08-23 16:15:17 Started transferring input files
+	Transferring to host: <128.105.244.60:33367?addrs=128.105.244.60-33367&alias=dumbo.chtc.wisc.edu&noUDP&sock=slot1_4075647_c300_1>
+...
+040 (037.000.000) 2023-08-23 16:15:17 Finished transferring input files
+...
+001 (037.000.000) 2023-08-23 16:15:18 Job executing on host: <128.105.244.60:33367?addrs=128.105.244.60-33367&alias=dumbo.chtc.wisc.edu&noUDP&sock=startd_1544203_652a>
+	SlotName: slot1@dumbo.chtc.wisc.edu
+	CondorScratchDir = "/home/rrallabandi/htcontor_build/htcondor/__build/release_dir/local/execute/dir_4077043"
+	Cpus = 1
+	Disk = 6414192
+	Memory = 15845
+...
+005 (037.000.000) 2023-08-23 16:16:58 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	0  -  Run Bytes Sent By Job
+	38280  -  Run Bytes Received By Job
+	0  -  Total Bytes Sent By Job
+	76560  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated 
+	   Cpus                 :                 1         1 
+	   Disk (KB)            :       48     1024   6414192 
+	   Memory (MB)          :        8     1024     15845 
+
+	Job terminated of its own accord at 2023-08-23T21:16:58Z with exit-code 0.
+...
